@@ -23,7 +23,7 @@ export default function About() {
             {/* Hauptbild: Reinigungskraft reinigt Fenster/Glasfront */}
             <div className="relative h-[460px] rounded-3xl overflow-hidden shadow-xl">
               <Image
-                src="https://images.unsplash.com/photo-1585771724684-38269d6639fd?auto=format&fit=crop&w=1200&q=95"
+                src="/images/glass-cleaning.png"
                 alt="CleanPro Mitarbeiterin bei der professionellen Glasreinigung"
                 fill
                 quality={95}
@@ -47,7 +47,7 @@ export default function About() {
             {/* Inset-Bild: Reinigungsmittel / Profi-Equipment */}
             <div className="absolute -bottom-6 -right-6 w-44 h-44 rounded-2xl overflow-hidden shadow-xl border-4 border-white">
               <Image
-                src="https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=400&q=95"
+                src="/images/equipment.png"
                 alt="Professionelles Reinigungsequipment"
                 fill
                 quality={95}

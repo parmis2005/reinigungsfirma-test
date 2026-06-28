@@ -3,35 +3,35 @@ import Image from "next/image";
 const images = [
   {
     // Reinigungskraft wischt Büroboden mit Mopp
-    src: "https://images.unsplash.com/photo-1581578731548-c64695cc6952?auto=format&fit=crop&w=1400&q=95",
+    src: "/images/gallery-floor-cleaning.png",
     alt: "Mitarbeiter reinigt Büroboden mit professionellem Mopp",
     label: "Unterhaltsreinigung",
     wide: true,
   },
   {
     // Gelber Reinigungseimer mit Mopp – klassisches Reinigungsbild
-    src: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=800&q=95",
+    src: "/images/equipment.png",
     alt: "Professionelles Reinigungsequipment – Eimer und Mopp",
     label: "Profi-Equipment",
     wide: false,
   },
   {
     // Glasreinigung mit Rakel an Fassade
-    src: "https://images.unsplash.com/photo-1585771724684-38269d6639fd?auto=format&fit=crop&w=800&q=95",
+    src: "/images/glass-cleaning.png",
     alt: "Glasreinigung mit professionellem Rakel an Glasfassade",
     label: "Glasreinigung",
     wide: false,
   },
   {
     // Reinigungssprays und -mittel auf weißem Hintergrund
-    src: "https://images.unsplash.com/photo-1527515545081-5db817172677?auto=format&fit=crop&w=800&q=95",
+    src: "/images/hero-cleaning.png",
     alt: "Professionelle Reinigungsmittel und Sprühflaschen",
     label: "Reinigungsmittel",
     wide: false,
   },
   {
     // Desinfektion mit Schutzausrüstung
-    src: "https://images.unsplash.com/photo-1584820927498-cad076eee68c?auto=format&fit=crop&w=800&q=95",
+    src: "/images/disinfection.png",
     alt: "Professionelle Desinfektion mit Schutzausrüstung",
     label: "Desinfektion",
     wide: false,

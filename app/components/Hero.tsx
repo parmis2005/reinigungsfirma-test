@@ -85,7 +85,7 @@ export default function Hero() {
           <div className="relative hidden lg:block">
             <div className="relative h-[540px] rounded-3xl overflow-hidden shadow-2xl">
               <Image
-                src="https://images.unsplash.com/photo-1581578731548-c64695cc6952?auto=format&fit=crop&w=1400&q=95"
+                src="/images/lobby-cleaning.png"
                 alt="Professionelle Gebäudereinigung – Mitarbeiter reinigt Bürogebäude"
                 fill
                 quality={95}

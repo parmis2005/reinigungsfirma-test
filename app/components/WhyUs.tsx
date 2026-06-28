@@ -47,21 +47,21 @@ const testimonials = [
     role: "Büromanagerin, IT-Firma",
     text: "Seit 4 Jahren arbeiten wir mit CleanPro zusammen. Das Team ist immer pünktlich, gründlich und unglaublich zuverlässig. Wir würden nie wechseln!",
     rating: 5,
-    avatar: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=200&q=95",
+    avatar: "/images/avatar-sarah.png",
   },
   {
     name: "Thomas Weber",
     role: "Facility Manager, Klinik",
     text: "Für uns als Gesundheitseinrichtung ist Hygiene oberste Priorität. CleanPro erfüllt alle unsere strengen Anforderungen und übertrifft sie regelmäßig.",
     rating: 5,
-    avatar: "https://images.unsplash.com/photo-1506794778202-cad3141f28f5?auto=format&fit=crop&w=200&q=95",
+    avatar: "/images/avatar-thomas.png",
   },
   {
     name: "Andrea Klein",
     role: "Privatkundin",
     text: "Die Umzugsreinigung war perfekt! Die Wohnung war tadellos sauber, die Kaution habe ich komplett zurückbekommen. Absolute Empfehlung!",
     rating: 5,
-    avatar: "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=200&q=95",
+    avatar: "/images/avatar-andrea.png",
   },
 ];
 
