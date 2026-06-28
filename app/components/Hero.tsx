@@ -101,7 +101,7 @@ export default function Hero() {
             </div>
 
             {/* ISO badge */}
-            <div className="absolute -bottom-5 -left-5 bg-white rounded-2xl shadow-xl p-4 flex items-center gap-3 border border-gray-100">
+            <div className="absolute top-6 left-6 bg-white rounded-2xl shadow-xl p-4 flex items-center gap-3 border border-gray-100">
               <div className="w-12 h-12 bg-primary-50 rounded-xl flex items-center justify-center shrink-0">
                 <Shield className="text-primary-600" size={24} />
               </div>
@@ -112,7 +112,7 @@ export default function Hero() {
             </div>
 
             {/* Rating badge */}
-            <div className="absolute -top-4 -right-4 bg-accent-400 rounded-2xl shadow-xl p-4 text-white text-center">
+            <div className="absolute -bottom-4 -right-4 bg-accent-400 rounded-2xl shadow-xl p-4 text-white text-center">
               <div className="text-3xl font-black leading-none">4.9</div>
               <div className="flex justify-center gap-0.5 my-1">
                 {[...Array(5)].map((_, i) => (
